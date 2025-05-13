@@ -2,6 +2,8 @@
 
 Ce projet contient un script Python qui récupère, analyse et génère des statistiques détaillées à partir des données de matchs de basketball. Il permet d'extraire des informations sur les performances individuelles des joueurs et des statistiques d'équipe à partir de données disponibles sur une plateforme de sport (par exemple, via un scraping de sites web ou d'APIs).
 
+[Démo Google Colab](https://colab.research.google.com/drive/1CQU5uI0m92-XrhGjQSlFDePjJZbGQzeN?usp=sharing)
+
 ## Fonctionnalités
 
 * **Scraping des données** : Récupération des informations de performances individuelles des joueurs de basketball lors de chaque match.
